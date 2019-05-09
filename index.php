@@ -5,7 +5,7 @@
   <!-- meta -->
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <link rel="shortcut icon" href="images/logo.png">
+
   <title>BEM STMIK JAYAKARTA</title>
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -29,7 +29,7 @@
   <link href="css/responsive.css" rel="stylesheet">
 
   <!-- Favicon -->
-  
+  <link rel="shortcut icon" href="images/.png">
 
   <!-- =======================================================
     Theme Name: Folio
@@ -132,17 +132,17 @@
 
           <div class="services-block">
 
-            <i><ion-icon name="alert"></ion-icon></i>
-            <span>Kritik & Saran</span>
-            <p class="separator">Mahasiswa/i Stmik Jayakarta dapat Mengajukan Kritik dan Saran</p>
+            <i class="ion-ios-color-wand-outline"></i>
+            <span>WEB DESIGN</span>
+            <p class="separator">di BEM STMIK JAYAKARTA, banyak sekali senior dan anggota aktif yang memiliki skill web design. </p>
 
           </div>
 
           <div class="services-block">
             
-            <i><ion-icon name="people"></ion-icon></i>
-            <span>Struktur Organisasi</span>
-            <p class="separator">Anda dapat Melihat Struktur Organisasi BEM STMIK Jayakarta </p>
+            <i class="ion-ios-analytics-outline"></i>
+            <span>ANALISIS</span>
+            <p class="separator">Kami selalu memperhatikan lingkungan kampus dan menganalisa setiap aspek lingkungan kampus </p>
           
 
           </div>
@@ -151,7 +151,7 @@
             
             <a href="dokumentasi.html">
             <i><ion-icon name="camera"></ion-icon></i>
-            <span>Dokumentasi</span>
+            <span>Foto Dokumentasi</span>
             <p class="separator">Anda dapat melihat dokumentasi kegiatan yang kami lakukan</p>
             </a>
 
