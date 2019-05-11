@@ -29,7 +29,7 @@
   <link href="css/responsive.css" rel="stylesheet">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="images/.png">
+  <link rel="shortcut icon" href="images/logo.png">
 
   <!-- =======================================================
     Theme Name: Folio
@@ -56,7 +56,7 @@
           <li><a href="#header" class="smoothScroll">Home</a></li>
           <li><a href="#about" class="smoothScroll">About</a></li>
           <!-- <li><a href="#portfolio" class="smoothScroll">Foto Dokumentasi</a></li> -->
-          <li><a href="#contact" class="smoothScroll">Kritik & Saran</a></li>
+          <li><a href="#contact" class="smoothScroll">Contact Us</a></li>
           <li><a href="" class="smoothScroll">Login</a></li>
         </ul>
 
@@ -132,17 +132,17 @@
 
           <div class="services-block">
 
-            <i class="ion-ios-color-wand-outline"></i>
-            <span>WEB DESIGN</span>
-            <p class="separator">di BEM STMIK JAYAKARTA, banyak sekali senior dan anggota aktif yang memiliki skill web design. </p>
+            <i><ion-icon name="chatboxes"></ion-icon></i>
+            <span>Kritik & Saran</span>
+            <p class="separator">Sebagai Mahasiswa/i Stmik Jayakarta Anda dapan mengirim Kritik dan Saran </p>
 
           </div>
 
           <div class="services-block">
             
-            <i class="ion-ios-analytics-outline"></i>
-            <span>ANALISIS</span>
-            <p class="separator">Kami selalu memperhatikan lingkungan kampus dan menganalisa setiap aspek lingkungan kampus </p>
+            <i><ion-icon name="people"></ion-icon></i>
+            <span>Stuktur Organisasi</span>
+            <p class="separator">Anda dapat Melihat Struktur Organisasi Bem Stmik Jayakarta </p>
           
 
           </div>
@@ -268,13 +268,20 @@
           <div class="col-lg-6">
             <div class="contact-contact">
 
-              <h2 class="mb-30">Kritik & Saran</h2>
+              <h2 class="mb-15">Contact Us</h2>
+              <h6 class="mb-30">Hubungi kami langsung disini atau melalui</h6>
               
 
               <ul class="contact-details">
-                <li><span>Persyaratan Menngirim Kritik & saran ke BEM STMIK Jayakarta :</span></li>
-                <li><span>Terdaftar sebagai Mahasiswa / Mahasiswi STMIK Jayakarta</span></li>
+                <li><span style="font-weight: bold;"><ion-icon name="pin"></ion-icon> Address :</span></li>
+                <li><span>Jalan Salemba I No.10, RT.4/RW.6, Kenari, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430</span></li>
+
+                <li><span style="font-weight: bold;"><ion-icon name="call"></ion-icon> Telp :</span></li>
+                <li><span>08555555555()</span></li>
                 
+
+                <li><span style="font-weight: bold;"><ion-icon name="mail"></ion-icon> Mail :</span></li>
+                <li><span>bemstmikjayakarta@gmail.com</span></li>
                 <!-- <li><span>2. Siap menjalani setiap program kerja BEM STMIK Jayakarta</span></li>
                 <li><span>3. Sehat Jasmani & Rohani</span></li>
                 <li><span>4. Berkeinginan kuat untuk memajukan BEM STMIK JAYAKARTA</span></li> -->
