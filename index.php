@@ -124,33 +124,37 @@
 
           <div class="services-block">
 
-            <i><ion-icon name="calendar"></ion-icon></i>
+            <a href="404.html">
+            <i><ion-icon  style="color: #00001e" name="calendar"></ion-icon></i>
             <span>Event</span>
             <p class="separator">Anda dapat melihat Event/kegiatan yang kami lakukan</p>
+            </a>
 
           </div>
 
           <div class="services-block">
 
-            <i><ion-icon name="chatboxes"></ion-icon></i>
+            <a href="404.html">
+            <i><ion-icon  style="color: #00001e" name="chatboxes"></ion-icon></i>
             <span>Kritik & Saran</span>
             <p class="separator">Sebagai Mahasiswa/i Stmik Jayakarta Anda dapan mengirim Kritik dan Saran </p>
-
+            </a>
           </div>
 
           <div class="services-block">
-            
-            <i><ion-icon name="people"></ion-icon></i>
+
+            <a href="404.html">
+            <i><ion-icon style="color: #00001e" name="people"></ion-icon></i>
             <span>Stuktur Organisasi</span>
             <p class="separator">Anda dapat Melihat Struktur Organisasi Bem Stmik Jayakarta </p>
-          
+            </a>
 
           </div>
 
           <div class="services-block">
             
             <a href="dokumentasi.html">
-            <i><ion-icon name="camera"></ion-icon></i>
+            <i><ion-icon  style="color: #00001e" name="camera"></ion-icon></i>
             <span>Foto Dokumentasi</span>
             <p class="separator">Anda dapat melihat dokumentasi kegiatan yang kami lakukan</p>
             </a>
