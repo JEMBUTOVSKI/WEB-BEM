@@ -57,7 +57,7 @@
           <li><a href="#about" class="smoothScroll">About</a></li>
           <!-- <li><a href="#portfolio" class="smoothScroll">Foto Dokumentasi</a></li> -->
           <li><a href="#contact" class="smoothScroll">Contact Us</a></li>
-          <li><a href="" class="smoothScroll">Login</a></li>
+          <li><a href="login.php" >Login</a></li>
         </ul>
 
       </div>
