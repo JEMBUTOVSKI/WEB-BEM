@@ -134,7 +134,7 @@
 
           <div class="services-block">
 
-            <a href="404.html">
+            <a href="kritik.php">
             <i><ion-icon  style="color: #00001e" name="chatboxes"></ion-icon></i>
             <span>Kritik & Saran</span>
             <p class="separator">Sebagai Mahasiswa/i Stmik Jayakarta Anda dapan mengirim Kritik dan Saran </p>
