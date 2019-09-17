@@ -6,7 +6,6 @@
 */
 /*-- Reset-Code --*/
 body{
-	background:url(images/bg.jpg)no-repeat;
 	background-size: cover;
 	background-position: 50% 50%;
 	min-height: 700px;
