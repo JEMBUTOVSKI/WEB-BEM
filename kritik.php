@@ -106,6 +106,6 @@ background-image:url(images/bg.jpg);
 </form>
 </div>
 </div>
-<footer>&copy; 2017 effective application Form. All Rights Reserved | Design by <a style="color:#ff0000" href="http://w3layouts.com/"> W3layouts</a></footer>
+<footer>&copy; All Rights Reserved | Design by <a style="color:#ff0000" href="bemstmikjayakarta.nofrialdi.com"> BEM STMIK JAYAKARTA</a></footer>
 </body>
 </html>
